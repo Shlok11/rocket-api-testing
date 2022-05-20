@@ -5,7 +5,9 @@ Zocket makes API development uncomplicated. It's a platform for
 building and testing your APIs.
 
 
+## Tech Stack
 
+HTML, CSS, Javascript
 
 
 ## Run Locally
